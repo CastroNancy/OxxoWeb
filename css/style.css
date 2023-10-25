@@ -1,0 +1,28 @@
+.pad{
+    padding:  .30rem !important;
+}
+
+.navbar-toggler:focus{
+    outline: 0 !important;
+    color: unset !important;
+    box-shadow: none !important;
+
+}
+.formss{
+    background-color: rgb(165, 165, 165);
+}
+.btn {
+background-color: rgb(242, 177, 97);
+}
+.im{
+    height: 50px;
+    width: 90px;
+
+}
+.ot{
+    font-size: 35px;
+    font-family: italic bold;
+}
+.ft{
+    background-color: black;
+}
